@@ -1,2 +1,2 @@
-# Black Duck CoPilot Cocoapods/Travis CI Example
-Example project for setting up CoPilot with a Cocoapods Project Built using Travis CI
+# Black Duck CoPilot iOS (Cocoapods)/buddybuild Example
+Example project for setting up CoPilot with an iOS (Cocoapods) Project Built using buddybuild
